@@ -1,4 +1,4 @@
 Emanoel Lopes
 ======
 
-Cotidiano de um técnico de informática.
+Professor e técnico de informática.
