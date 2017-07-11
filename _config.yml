@@ -34,10 +34,10 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: emanoelopes
+# facebook: emanoelopes
 twitter: emanoelopes
 # google: mygoogle
-instagram: emanoelopes
+# instagram: emanoelopes
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
@@ -47,7 +47,7 @@ github: emanoelopes
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 reddit: emanoelopes
-# medium: medium
+medium: emanoelopes
 # vimeo: myvimeo
 email: emanoelopes@gmail.com
 
@@ -73,7 +73,7 @@ width: normal
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
