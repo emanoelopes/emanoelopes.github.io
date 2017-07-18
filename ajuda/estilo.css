@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+body {
+  background-color: #dddddd;
+  color: rgba(0,0,0,1);
+}
+
+p{
+  text-align: justify;
+  text-indent: 50px;
+}
+/* Posição do avatar */
+
+div#interface header#cabecalho img#avatar{
+  position: fixed;
+  left: 960px;
+  top: 20px;
+}
+
+/*Formataçao do titular e do titulo*/
+
+div#interface header#cabecalho h1#titular{
+  font-variant: small-caps;
+
+}
+div#interface header#cabecalho h2#titulo{
+  font-variant: small-caps;
+}
+
+/* Configuração da interface */
+
+div#interface{
+  font-family: helvetica, serif, arial;
+  width: 960px;
+  background-color: #ffffff;
+  margin: 15px auto 0px auto;
+  box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+  padding: 10px;
+}
+/* Formatação do Menu */
+
+nav#menu {
+  display: block;
+}
+
+nav#menu ul{
+    list-style: none;
+    font-variant: small-caps;
+    position: fixed;
+    top: -15px;
+    left: 100px;
+}
+
+nav#menu li{
+  display: inline-block;
+  background-color: #dddddd;
+  padding: 2px;
+  margin: 1px;
+  -webkit-transition: background-color 1s;
+  -moz-transition: background-color 1s;
+  -o-transition: background-color 1s;
+  -ms-transition: background-color 1s;
+transition: background-color 1s;}
+
+nav#menu li  hover{
+  background-color: #606060;
+}
+nav#menu h1{
+  display: none;
+}
+
+nav#menu a {
+  color: #000000;
+  text-decoration: none;
+}
+
+nav#menu a:hover {
+  color: #ffffff;
+  
+}
+
+/* Rodapé */
+
+footer {
+  color: #C7C7C7;
+  font-family: helvetica, serif;
+  font-size: 8px;
+}
+footer:hover{
+  color: black;
+}
