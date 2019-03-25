@@ -1,6 +1,6 @@
 # main text of home
 name: Emanoel Lopes
-bio: Curioso
+bio: Pelejando
 
 # twitter summary info
 description: Página inicial
@@ -54,7 +54,7 @@ email: emanoelopes@gmail.com
 authors:
     emanoel:
         name: Emanoel Lopes
-        bio: Técnico em Informática
+        bio: Observador
         external-image: false
         picture: assets/images/avatar_prof_emanoel_wiki_135x135.png
         twitter: emanoelopes
