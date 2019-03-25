@@ -1,6 +1,6 @@
 # main text of home
 name: Emanoel Lopes
-bio: Técnico em Informática
+bio: Curioso
 
 # twitter summary info
 description: Página inicial
@@ -58,7 +58,7 @@ authors:
         external-image: false
         picture: assets/images/avatar_prof_emanoel_wiki_135x135.png
         twitter: emanoelopes
-        
+
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
