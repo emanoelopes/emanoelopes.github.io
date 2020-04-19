@@ -1,6 +1,6 @@
 # main text of home
 name: Emanoel Lopes
-bio: Professor e produtor de conteúdo em Informática
+bio: Professor digital
 
 # twitter summary info
 description: Página inicial
@@ -45,8 +45,8 @@ twitter: emanoelopes
 github: emanoelopes
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-reddit: emanoelopes
+quora: https://www.quora.com/profile/Emanoel-Lopes
+# reddit: emanoelopes
 medium: emanoelopes
 # vimeo: myvimeo
 email: emanoelopes@gmail.com
