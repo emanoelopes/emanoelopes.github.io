@@ -34,10 +34,9 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-# facebook: emanoelopes
+facebook: prof.emanoel.lopes
 twitter: emanoelopes
 # google: mygoogle
-# instagram: emanoelopes
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
@@ -45,7 +44,7 @@ twitter: emanoelopes
 github: emanoelopes
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-quora: https://www.quora.com/profile/Emanoel-Lopes
+quora: Emanoel-Lopes
 # reddit: emanoelopes
 medium: emanoelopes
 # vimeo: myvimeo
