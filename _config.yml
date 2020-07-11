@@ -39,7 +39,7 @@ twitter: emanoelopes
 # google: mygoogle
 # pinterest: mypinterest
 # linkedin: mylinkedin
-# youtube: myyoutube
+youtube: UCZKBXUPRwndUAWf3LfvwuFw
 # spotify: myspotify
 github: emanoelopes
 # lastfm: mylastfm
@@ -68,7 +68,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 # about: true
