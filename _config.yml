@@ -30,8 +30,8 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [project] # only show disqus for posts that have these categories
+  shortname: emanoelopes # enter this from your disqus account
+  categories: [blog] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: prof.emanoel.lopes
@@ -53,7 +53,7 @@ email: emanoelopes@gmail.com
 authors:
     emanoel:
         name: Emanoel Lopes
-        bio: Observador
+        bio: Observador curioso
         external-image: false
         picture: assets/images/avatar_prof_emanoel_wiki_135x135.png
         twitter: emanoelopes
@@ -72,10 +72,10 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 # about: true
-# blog: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+#read-time: true
 
 # do you want to show the "tags" inside the posts?
 show-tags: true

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <title>horario SMD</title>
+<meta charset="UTF-8"/>
+  <link rel="stylesheet" href="estilo.css"/>
+  <script>
+    function horario(){
+    var agora = new Date();
+    var hora = agora.getHours(); //hora atual de 0 a 23.
+    //Determinar se é manhã
+    if(hora < 12){
+      document.write("<h3>Bom dia, </h3>");
+    }
+    //Determinar se é tarde ou noite
+    if(hora >= 12){
+      hora = hora - 12;
+      if (hora < 6) {
+        document.write("<h3>Boa tarde,</h3>");
+        }
+      if(hora > 6){
+        document.write("<h3>Boa noite,</h3>");
+        }
+      }
+      document.writeln("<p>Escolha o semestre que deseja ver o horário.</p>");
+    }
+  </script>
+</head>
+<body>
+<div id="interface">
+  <header id="cabecalho">
+  <hgroup>
+  <h1 id="titular">Google Drive do SMD</h1>
+  </hgroup>
+  </header>
+<script>
+  horario();
+</script>
+<table>
+<tl>
+<td>
+<div style="position:relative; width:200px; height:125px;">
+  <a href="https://drive.google.com/drive/folders/0B1pjZOAnXL6-WVZIVVAta3UzcUk" style="text-decoration:none;">
+    <span style="position:absolute; top:8.5px; left:5px; display:block; cursor:pointer; color:Black; font-family:Arial; font-size:15px; line-height:1.2em; font-weight:bold;">
+2018.1
+    </span>
+  </a>
+</div>
+</td>
+<td>
+</td>
+</tl>
+</table>
+<footer id="rodape">
+  <p>Copyright &copy; 2010-{{ site.time | date: '%Y' }} - <a href="http://emanoelopes.com">Emanoel Lopes</a></p>
+<p></p>
+</footer>
+</div>
+</body>
+</html>
+

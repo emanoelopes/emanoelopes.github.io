@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <title>Acesso Remoto - Emanoel</title>
+<meta charset="UTF-8"/>
+  <link rel="stylesheet" href="estilo.css"/>
+  <script>
+    function horario(){
+    var agora = new Date();
+    var hora = agora.getHours(); //hora atual de 0 a 23.
+    //Determinar se é manhã
+    if(hora < 12){
+      document.write("<h3>Bom dia, </h3>");
+    }
+    //Determinar se é tarde ou noite
+    if(hora >= 12){
+      hora = hora - 12;
+      if (hora < 6) {
+        document.write("<h3>Boa tarde,</h3>");
+        }
+      if(hora > 6){
+        document.write("<h3>Boa noite,</h3>");  
+        }
+      }
+      document.writeln("<p>Em alguns casos, a melhor forma de dar suporte é acessando remotamente o sistema.</p>");
+    }
+  </script>
+</head>
+<body>
+<div id="interface">
+  <header id="cabecalho">
+  <hgroup>
+  <h1 id="titular">Olá, vamos lá?!</h1>
+  </hgroup>
+  </header>
+<script>
+  horario();
+</script>
+<table>
+<tl>
+<td>
+<div style="position:relative; width:200px; height:125px;">
+  <a href="http://www.teamviewer.com/link/?url=505374&id=1118055841" style="text-decoration:none;">
+    <img src="http://www.teamviewer.com/link/?url=246800&id=1118055841" alt="Acesso e suporte remoto através da Internet com o TeamViewer" title="Acesso e suporte remoto através da Internet com o TeamViewer" border="0" width="200" height="125" />
+    <span style="position:absolute; top:83.5px; left:5px; display:block; cursor:pointer; color:White; font-family:Arial; font-size:15px; line-height:1.2em; font-weight:bold; text-align:center; width:190px;">
+Baixar
+    </span>
+  </a>
+</div>
+</td>
+<td>
+<ol>
+<li>Baixe o TeamViewer para que eu possa ter acesso ao seu computador.</li>
+<li>Ao executar o TeamViwer, preciso da "Sua ID" e "Senha" que aparecem na tela.</li>
+</ol>
+</td>
+</tl>
+</table>
+<footer id="rodape">
+  <p>Copyright &copy; 2010-2019 - <a href="http://emanoelopes.com">Emanoel Lopes</a></p>
+<p></p>
+</footer>
+</div>
+</body>
+</html>
+    
