@@ -34,7 +34,7 @@ disqus:
   categories: [blog] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: prof.emanoel.lopes
+#facebook: prof.emanoel.lopes
 twitter: emanoelopes
 # google: mygoogle
 # pinterest: mypinterest
