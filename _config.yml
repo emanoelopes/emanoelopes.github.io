@@ -46,14 +46,14 @@ github: emanoelopes
 # stackoverflow: 7044681/mystackoverflow
 quora: Emanoel-Lopes
 # reddit: emanoelopes
-medium: emanoelopes
+# medium: emanoelopes
 # vimeo: myvimeo
 email: emanoelopes@gmail.com
 
 authors:
     emanoel:
         name: Emanoel Lopes
-        bio: Observador curioso
+        bio: Professor e produtor de conteúdo digital
         external-image: false
         picture: assets/images/avatar_prof_emanoel_wiki_135x135.png
         twitter: emanoelopes
