@@ -6,5 +6,5 @@ sudo apt remove mongodb*
 
 ## 
 
-![tela 1][ubuntu_16-01.jpg]
+![tela 1][/assets/images/01.jpg]
 
