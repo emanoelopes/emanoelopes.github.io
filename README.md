@@ -1,4 +1,4 @@
 Hi, I'm Emanoel
 ======
 
-Reparando
+Creating courses about basic and practical informatics habilities.
