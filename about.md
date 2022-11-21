@@ -6,10 +6,6 @@ layout: page
 
 <p>Entre 2008 e 2014, foi professor de Química e coordenador de Laboratório Escolar de Informática no Ensino Médio Regular. Foi professor de Informática no Curso Técnico do Ensino Médio Integral Profissionalizante do Estado do Ceará, assumindo também a função de orientador de estágios e coordenador de curso. Assumiu o cargo de técnico de laboratório de informática na UFC em julho de 2014.</p>
 
-Missão: Contribuir para a promoção do aluno ao mercado de trabalho mediante o fomento à tecnologia da informação, cultura digital e formação humana necessária à profissão escolhida.
-
-Visão: Promover parcerias com as concedentes de estágio que possam contribuir com a aprendizagem prática e vivência profissional dos alunos.
-
 Prêmio: Lamparina de Ouro 2011 – Conferindo o melhor professor do 2º ano do curso de Informática da EEEP Joaquim Nogueira.
 
 Trajetória detalhada:
@@ -42,7 +38,6 @@ Em 2015, concluí o curso de graduação em Análise e Desenvolvimento de Sistem
 
 Em 2016, implantação de um controlador de domínio Active Directory utilizando o Windows Server 2012 R2 Standart no curso SMD. Palestra sobre Empreendedorismo Digital na EEEP Creusa do Carmo Rocha. Início das atividades como desenvolvedor web no Instituto Universidade Virtual, UFC.
 
-Mantenho  um wiki com conteúdos complementares das aulas;
 
 Veja também: Lattes.</p>
 
@@ -50,20 +45,7 @@ Veja também: Lattes.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Ansible</li>
 </ul>
 
 <h2>Projects</h2>
