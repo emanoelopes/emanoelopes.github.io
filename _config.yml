@@ -1,6 +1,6 @@
 # main text of home
 name: Emanoel Lopes
-bio: Keep learning
+bio: Entrando na cultura DevOps
 
 # twitter summary info
 description: Página inicial
@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: prof.emanoel.lopes
-twitter: laborandonati
+#twitter: laborandonati
 # google: mygoogle
 # pinterest: mypinterest
 # linkedin: mylinkedin
@@ -53,10 +53,9 @@ email: emanoelopes@gmail.com
 authors:
     emanoel:
         name: Emanoel Lopes
-        bio: Keep learning
+        bio: Entrando na cultura DevOps
         external-image: false
         picture: assets/images/avatar_prof_emanoel_wiki_135x135.png
-        twitter: laborandonati
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
