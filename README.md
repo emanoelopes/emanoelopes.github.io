@@ -1,4 +1,4 @@
 Hi, I'm Emanoel
 ======
 
-Sysadmin
+Learning sysadmin stuff.
