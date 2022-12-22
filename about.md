@@ -48,9 +48,3 @@ Veja também: Lattes.</p>
 	<li>Ansible</li>
 </ul>
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/emanoelopes/academiaboaforma">Academia Boa Forma</a></li>
-	<li><a href="https://github.com/emanoelopes/oficinadecosturaearte">Oficina de Costura e Arte</a></li>
-</ul>
