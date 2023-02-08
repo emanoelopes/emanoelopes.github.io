@@ -21,7 +21,7 @@ externalLink: false
 
 R Cel Luiz David de Souza, 65
 
-Salão de Festas da Torre 1
+Salão de Festas da Torre 2
 
 ## Atalhos
 
