@@ -15,7 +15,7 @@ category: project
 author: emanoel
 externalLink: false
 ---
-![header](https://github.com/emanoelopes/emanoelopes.github.io/blob/master/assets/images/clarice4anos-small.png)
+![header](https://github.com/emanoelopes/emanoelopes.github.io/blob/master/assets/images/clarice-4anos-small-2.png)
 
 ## Endereço
 
