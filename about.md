@@ -4,42 +4,24 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Entre 2008 e 2014, foi professor de Química e coordenador de Laboratório Escolar de Informática no Ensino Médio Regular. Foi professor de Informática no Curso Técnico do Ensino Médio Integral Profissionalizante do Estado do Ceará, assumindo também a função de orientador de estágios e coordenador de curso. Assumiu o cargo de técnico de laboratório de informática na UFC em julho de 2014.</p>
+Mestrando em Tecnologias Educacionais, possui especialização em Administração e Segurança de Sistemas Computacionais, graduação em Análise e Desenvolvimento de Sistemas e em Licenciatura em Química pela UECE. Experiência em docência em cursos técnicos profissionalizantes e como técnico de laboratórios didáticos de Informática com Windows 10/11 e macOS – administrados com Ansible e Clonezilla.
 
-Prêmio: Lamparina de Ouro 2011 – Conferindo o melhor professor do 2º ano do curso de Informática da EEEP Joaquim Nogueira.
+Cursos ofertados na Udemy:
 
-Trajetória detalhada:
+![Moodle para Professores do Ensino Médio](https://www.udemy.com/course/moodle-para-pofessores-do-ensino-medio/?referralCode=B3B65BA294D1A6D615F7)
 
-Entre 1988 e 1997 estudei no Colégio Lourenço Filho.
+![Clonando com o Clonezilla](https://www.udemy.com/course/clonando-com-o-clonezilla/?referralCode=4F488C22779DC25951E5)
 
-Em 1999, passei no vestibular da UFC para Engenharia Química.
+![Informática Básica na Prática](https://www.udemy.com/course/informatica-basica-na-pratica/?referralCode=27256A7470C601E52C70)
 
-Em 2001, ingressei na Casa de Cultura Britânica para o terceiro semestre (SIII) através da prova de Teste de Nível. (2001-2003.2)
+![Técnico de Laboratório de Informática](https://www.udemy.com/course/tecnico-de-laboratorio-de-informatica/?referralCode=47BB46A8BF6AB8E834FF)
 
-Em 2003, ministrei aulas de Português, Literatura e Redação em uma associação de moradores de bairro.
+Ocupa cargo público como técnico de laboratório de Informática onde utiliza ferramentas Ansible e Clonezilla na Universidade Federal do Ceará.
 
-Em 2004, passei no vestibular da UECE para Licenciatura em Química.
-
-Em 2006, fui colaborador na Synapsis (Coelce), como Técnico de Suporte em Informática. Realizava atividades de HelpDesk, atendimento presencial e metropolitano.
-
-Em 2008, antes de terminar a faculdade de Química, iniciei o magistério com aulas de Química em escolas públicas por um período de 1 ano. Ainda em 2008, fui selecionado para ser monitor do Projeto e-Jovem da SEDUC. Apresentei minha monografia sobre o uso do GNU/Linux Educacional como ferramenta de ensino da tabela periódica em escolas públicas. Terminei a faculdade de Química.
-
-Em 2009, coordenei a competição nacional de websites no ThinkQuest, através do Projeto e-Jovem. Fiz um semestre de Alemão no Imparh. Iniciei a pós-graduação em Administração e Segurança de Sistemas Computacionais na FIC/Estácio.
-
-Em 2010, voltei à escola para assumir a função de Professor do Laboratório Escolar de Informática – LEI. Fui tutor do curso “Ensinando e Aprendendo com as TIC”, promovido pelo MEC através da SEDUC.
-
-Em 2011, ingressei no quadro de Professores Técnicos EMI – CENTEC e assumi aulas no curso técnico de informática do Governo do Estado do Ceará. Terminei a pós-graduação com um artigo sobre o uso do Moodle nas escolas públicas da Educação Básica. Obtive a certificação de Administrador Linux, LPIC-1.
-
-Em 2013, iniciei a faculdade de Análise e Desenvolvimento de Sistemas na Estácio. Palestrei na FLISOL com o tema: Software Livre na Educação. Assumi o cargo de Professor Orientador de Estágios (SEDUC/CENTEC).
-
-Em 2014, assumi a função de Professor Coordenador do Curso Técnico de Informática da EEEP Joaquim Nogueira. Nomeado ao cargo de técnico de laboratório em informática da UFC, edital 101/2014.
-
-Em 2015, concluí o curso de graduação em Análise e Desenvolvimento de Sistemas.
-
-Em 2016, implantação de um controlador de domínio Active Directory utilizando o Windows Server 2012 R2 Standart no curso SMD. Palestra sobre Empreendedorismo Digital na EEEP Creusa do Carmo Rocha. Início das atividades como desenvolvedor web no Instituto Universidade Virtual, UFC.
+Entre 2008 e 2014, atuou em diferentes papéis no Ensino Médio. Professor de Química, monitor do Projeto e-Jovem, coordenador de Laboratório Escolar de Informática, professor no Curso Técnico em Informática no Ensino Médio Integral Profissionalizante do Estado do Ceará, assumindo também a função de orientador de estágios e coordenador de curso. Desde 2014 atua como técnico de laboratório didáticos e ministra aulas em cursos técnicos.
 
 
-Veja também: Lattes.</p>
+Veja também: ![Lattes.](http://lattes.cnpq.br/6844602803726866)</p>
 
 
 <h2>Skills</h2>
