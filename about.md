@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Mestrando em Tecnologias Educacionais, possui especialização em Administração e Segurança de Sistemas Computacionais, graduação em Análise e Desenvolvimento de Sistemas e em Licenciatura em Química pela UECE. Experiência em docência em cursos técnicos profissionalizantes e como técnico de laboratórios didáticos de Informática com Windows 10/11 e macOS – administrados com Ansible e Clonezilla.
+Mestrando em Tecnologias Educacionais, possui especialização em Administração e Segurança de Sistemas Computacionais, graduação em Análise e Desenvolvimento de Sistemas e em Licenciatura Plena em Química. Experiência em docência em cursos técnicos profissionalizantes e como técnico de laboratórios didáticos de Informática com Windows 10/11 e macOS, configurados com Ansible.
 
 Cursos ofertados na Udemy:
 
@@ -16,7 +16,7 @@ Cursos ofertados na Udemy:
 
 ![Técnico de Laboratório de Informática](https://www.udemy.com/course/tecnico-de-laboratorio-de-informatica/?referralCode=47BB46A8BF6AB8E834FF)
 
-Ocupa cargo público como técnico de laboratório de Informática onde utiliza ferramentas Ansible e Clonezilla na Universidade Federal do Ceará.
+Ocupa cargo público como técnico de laboratório de Informática na Universidade Federal do Ceará.
 
 Entre 2008 e 2014, atuou em diferentes papéis no Ensino Médio. Professor de Química, monitor do Projeto e-Jovem, coordenador de Laboratório Escolar de Informática, professor no Curso Técnico em Informática no Ensino Médio Integral Profissionalizante do Estado do Ceará, assumindo também a função de orientador de estágios e coordenador de curso. Desde 2014 atua como técnico de laboratório didáticos e ministra aulas em cursos técnicos.
 
