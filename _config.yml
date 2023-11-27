@@ -1,6 +1,6 @@
 # main text of home
 name: Emanoel Lopes
-bio: Administrador de Sistemas
+bio: Administrador de Sistemas com ênfase em tecnologia educacional
 
 # twitter summary info
 description: Página inicial
@@ -53,7 +53,7 @@ email: emanoelopes@gmail.com
 authors:
     emanoel:
         name: Emanoel Lopes
-        bio: Administrador de Sistemas
+        bio: Administrador de Sistemas com ênfase em tecnologia educacional
         external-image: false
         picture: assets/images/avatar_prof_emanoel_wiki_135x135.png
 
