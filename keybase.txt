@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/emanoel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://emanoel.pro.br
+  * I am emanoel (https://keybase.io/emanoel) on keybase.
+  * I have a public key ASAWJ6IjXmG9vP43AXjdF56RRmWE3NO_aKn1rfko4UZ4dAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201627a2235e61bdbcfe370178dd179e91466584dcd3bf68a9f5adf928e14678740a",
+      "host": "keybase.io",
+      "kid": "01201627a2235e61bdbcfe370178dd179e91466584dcd3bf68a9f5adf928e14678740a",
+      "uid": "62fcd3b8212d7d0d206130da566bf119",
+      "username": "emanoel"
+    },
+    "merkle_root": {
+      "ctime": 1713834347,
+      "hash": "95a7077b847c4d3003646c602725b2fe98a2608ae82c7f2d352863d5eb673c520b0017d6377022676f3ba07a6c2fd5c365a3ec8e57bfd25039ccba4aae571054",
+      "hash_meta": "4dd6ed1eee83464f59c42d8cc09a3aeb8e1af518af621c5d56bebb59306d75c8",
+      "seqno": 25667110
+    },
+    "service": {
+      "entropy": "SN18rWRunRcrg/pUWAXjp0Fa",
+      "hostname": "emanoel.pro.br",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.8"
+  },
+  "ctime": 1713834409,
+  "expire_in": 504576000,
+  "prev": "5d16a43874357264c204aaae33b8a6f4f037fcfabf9aff5d884a1f28ea221f3d",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFieiI15hvbz+NwF43ReekUZlhNzTv2ip9a35KOFGeHQKp3BheWxvYWTESpcCGcQgXRakOHQ1cmTCBKquM7im9PA3/Pq/mv9diEofKOoiHz3EIAiPWOOy1u2SIRR8Z4G/HT5PzlOgY0BQOC22y4g1iWPYAgHCo3NpZ8RABJcJ4WlgGcep0XyEIZEI2SRu5hrWUBmiwS89WntMsKp2ySRClAkdg/Nd0VkzU3ubkM1n0Fm2lbbF4Ri0asdjD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIF4RaUDVWro6kxTkCsRY8xXI7bzSUU4sH6vGrwvkjXnYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/emanoel
+
+==================================================================
