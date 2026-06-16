@@ -1,6 +1,6 @@
 # main text of home
 name: Emanoel Lopes
-bio: Mestrando em Tecnologia Educacional
+bio: Mestre em Tecnologia Educacional
 
 # twitter summary info
 description: Página inicial
@@ -53,7 +53,7 @@ email: emanoelopes@gmail.com
 authors:
     emanoel:
         name: Emanoel Lopes
-        bio: Mestrando em Tecnologia Educacional
+        bio: Mestre em Tecnologia Educacional
         external-image: false
         picture: assets/images/avatar_prof_emanoel_wiki_135x135.png
 
